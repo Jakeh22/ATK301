@@ -24,8 +24,9 @@ margin: 20px 20px 20px 20px;
 background-color: #ffffff;
 }
 
+
 body {
-background-image: url(apple.JPEG);
+background-image: url(apple.jpeg);
 background-repeat: repeat-x;
 background-position: center;
 }
