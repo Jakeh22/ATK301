@@ -1,0 +1,42 @@
+h1 {
+    color: white;
+}
+
+h2 {
+    color: blue;
+}
+
+h5 {
+    color: purple;
+}
+
+
+ #bluebackground {
+  background-color: #99D0FF;
+}
+
+.yellowbackground {
+ background-color: #FAFA4B;
+}
+
+.greenbackground {
+ background-color: #044B00;
+   color: #F1FF24;
+}
+
+.greenbackground2 {
+ background-color: #4BC944;
+}
+
+.redtext {
+  color: #FF2424;
+}
+
+.orangetext {
+  color: #FF8224;
+}
+
+a {
+ color: green;
+ text-decoration: none;
+}
