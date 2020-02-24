@@ -1,0 +1,95 @@
+body {
+background-color: #fad338;
+}
+
+main {
+background-color: #fad338;
+}
+
+.a {
+font-family: impact;
+font-weight: bold;
+font-size: 90px;
+
+color: #fc0036;
+}
+
+.ab {
+font-family: impact;
+font-weight: bold;
+font-size: 24px;
+text-align: justify;
+color: #a44ca7;
+}
+
+.ac {
+font-family: impact;
+font-weight: bold;
+font-size: 28px;
+text-align: justify;
+color: #fc0036;
+}
+
+.ad {
+font-family: impact;
+font-weight: bold;
+font-size: 28px;
+text-align: justify;
+color: #fd32f2;
+}
+
+.ae {
+font-family: impact;
+font-weight: bold;
+font-size: 16px;
+text-align: center;
+color: #fd32f2;
+}
+
+.af {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.ag {
+font-family: impact;
+font-weight: bold;
+font-size: 90px;
+color: #fd32f2;
+}
+
+.ah {
+text-align: center;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.ct {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.ai {
+font-family: impact;
+font-weight: bold;
+font-size: 14px;
+text-align: justify;
+color: #a44ca7;
+letter-spacing: 3px;
+}
+
+.aj {
+font-family: impact;
+font-weight: bold;
+font-size: 34px;
+text-align: justify;
+color: #a44ca7;
+letter-spacing: 3px;
+}
