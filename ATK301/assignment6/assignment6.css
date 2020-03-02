@@ -1,0 +1,88 @@
+body {
+background-image: url('a62.png');
+ }
+
+ #wrapper {
+   border: 3px solid #000000;
+   background-color: #ffffff;
+   width: 960px;
+    margin: 1em auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr
+ }
+
+h1 {
+  font-family: Helvetica;
+  color: white;
+
+}
+
+h2 {
+  font-family: Helvetica;
+  font-weight: bold;
+    border-bottom:
+}
+
+footer {
+  background-color: red;
+    grid-column: span 3;
+    font-family: Verdana;
+font-style: italic;
+text-align: center;
+color: white;
+font-size: 12px;
+}
+
+.imagefloat {
+  border: 3px solid #000000;
+   float: center;
+   padding: 10px;
+}
+
+header {
+  margin: 15px;
+  padding: 10px;
+  grid-column: span 3;
+  background-color: black
+}
+
+nav ul {
+  list-style-type: none;
+      margin: 0px
+
+
+}
+
+nav li {
+  width: 200px;
+  display: inline-block;
+}
+
+nav li a {
+  display: block;
+  background-color: red;
+  border: 10px solid white;
+  padding: 1em;
+  color: white;
+
+  text-decoration: none;
+
+}
+
+a:hover {
+  background-color: maroon;
+}
+
+#font1 {
+    font-family: Georgia;
+font-style: bold;
+text-align: justify;
+}
+
+aside {
+  grid-column: span 1;
+}
+
+main {
+  grid-column: span 2;
+}
