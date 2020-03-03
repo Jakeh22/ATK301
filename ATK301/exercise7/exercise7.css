@@ -29,6 +29,10 @@ nav li {
   display: inline-block;
 }
 
+main {
+  grid-column: span 2;
+}
+
 nav li a {
   display: block;
   background-color: red;
@@ -38,9 +42,6 @@ nav li a {
   text-decoration: none;
 }
 
-main {
-  grid-column: span 2;
-}
 
 .imagefloat {
   float: left;
