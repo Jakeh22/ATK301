@@ -44,6 +44,10 @@ a:hover {
   color: red;
 }
 
+a:active {
+ color: #ffffff;
+}
+
 nav ul {
   list-style: none;
   padding: 8px;
@@ -121,13 +125,7 @@ section h2 {
   box-shadow: 10px 10px 0px red; /* x, y, blur, color */
 }
 
-#audio{
-  grid-column: span 12;
-  align-content: center;
-  margin: 8px;
-  margin-left: 42px;
 
-}
 
 footer {
   grid-column: span 12;
