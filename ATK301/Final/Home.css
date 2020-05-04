@@ -71,7 +71,7 @@ nav li a {
   text-transform: uppercase;
   text-decoration: none;
   text-shadow: 3px 3px 3px red; /* x, y, blur, color */
-  transition: background-color 1.0s, width 2.0s, color 2.0s;
+  transition: background-color 1.0s, width 1.0s, color 1.0s;
 
 
 }
